@@ -1,1 +1,2 @@
-# project-booster
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
